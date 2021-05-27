@@ -1,0 +1,25 @@
+{
+  "name": "tdd-jasmine",
+  "version": "1.0.0",
+  "description": "Test driven development homework using Jasmine JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deficts/tdd-jasmine.git"
+  },
+  "author": "Diego Arredondo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deficts/tdd-jasmine/issues"
+  },
+  "homepage": "https://github.com/deficts/tdd-jasmine#readme",
+  "dependencies": {
+    "jasmine-terminal-reporter": "^1.0.3"
+  },
+  "devDependencies": {
+    "jasmine": "^3.7.0"
+  }
+}
